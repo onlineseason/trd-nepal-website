@@ -84,7 +84,7 @@ export default function HomePage() {
             <div className="relative h-96 md:h-full flex items-center justify-center animate-float">
               <div className="relative w-full h-full max-h-96 md:max-h-full">
                 <Image
-                  src="/logo.png"
+                  src=" Public/Logo.png"
                   alt="TRD Study Abroad"
                   fill
                   className="object-contain drop-shadow-2xl"
