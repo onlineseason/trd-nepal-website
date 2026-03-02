@@ -29,13 +29,6 @@ export default function ContactPage() {
                 description="Fill out the form and we'll send to soptrd@gmail.com. We'll get back to you within 24 hours"
               />
             </div>
-<div>
-// Add the embed in your HTML
-<iframe data-tally-src="https://tally.so/embed/xXdVMk?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="200" frameborder="0" marginheight="0" marginwidth="0" title="TRD Nepal"></iframe>
-
-// Load all embeds on the page
-Tally.loadEmbeds();
-</div>
             {/* Contact Information */}
             <div className="space-y-8">
               <div>
