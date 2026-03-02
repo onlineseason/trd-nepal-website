@@ -50,7 +50,7 @@ export default function CounselingPage() {
         <div className="relative z-10 container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
-              Expert <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">Study Abroad</span> Counseling
+              Expert <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">Study Abroad</span> Counseling By Mahesh Samal
             </h1>
             <p className="text-xl text-gray-300 mb-8 leading-relaxed">
               Navigate your international education journey with personalized guidance from experienced counselors. From country selection to visa processing, we're with you every step.
